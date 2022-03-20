@@ -10,7 +10,7 @@
 
 # Compilation
 
-    $ make -B
+    $ make all 
 
 # Execution de notre programme:
  
